@@ -6,7 +6,9 @@
 
 ### Dot Product
 
-$\vec{a}$ ·$\vec{b}$ = ||$\vec{a}$|| ||$\vec{b}$||cosθ
+$\vec a \cdot \vec b = \lVert \vec a \rVert \, \lVert \vec b \rVert \cos\theta$
+
+
 
 点乘的结果是一个值
 
